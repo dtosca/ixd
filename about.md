@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Diana (she/they).
+Hi! I'm Diana ([pronouns they/them](https://lgbtlifecenter.org/pronouns/)).
 
 Welcome to my blog for [DM-GY6143 Interaction Design Studio](https://github.com/IDMNYU/DM-GY6143-InteractionDesign-FA21-DuBois/wiki/Syllabus).
 
